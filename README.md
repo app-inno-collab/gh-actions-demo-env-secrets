@@ -8,7 +8,7 @@ Demo repository for using Environments and Secrets in workflows.
 - **If you have a GHEC organization available**, then please click ***Use this template*** to clone the repo into that organization
 - **If you do not have a GHEC organization available**, please run the demo in this repository. Just make sure to complete the **Cleanup** steps afterwards :house_with_garden:
 
-## Usage 
+## Usage: 
 
 ### Creating environments
 
