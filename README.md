@@ -1,6 +1,6 @@
 # :rocket: Environments and secrets
 
-Demo repository for using Environments and Secrets in workflows
+Demo repository for using Environments and Secrets in workflows:
 
 - :exclamation: **This is a template repository**
 - :exclamation: **This demo contains GHEC/GHES-specific features**
